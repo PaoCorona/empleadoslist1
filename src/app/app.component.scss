@@ -1,0 +1,12 @@
+.title-with-logo {
+    display: flex;
+    justify-content: space-between; /* Alinea los elementos al principio y al final */
+    align-items: center;
+  }
+  .titulo
+{
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    text-align: center;
+    margin-top: 25px;
+}
